@@ -1,0 +1,105 @@
+{
+    "Server":{
+        "Id": "700133656894767224"
+    },
+
+    "Welcome": {
+        "Channel": "792335747382116363"
+    },
+
+    "PrivHub": {
+        "Room": "796315740252143676",
+        "Symbol": "🏠"
+    },
+
+    "Authorization": {
+        "Registers":{
+            "Roles": ["792335327300681728", "793470919875624981"],
+            "NameAndAge": true,
+            "AgeLimit": 10,
+            "Brace": " | ",
+            "ManRoles": ["792340696383094805", "792368536495456267"],
+            "WomanRoles": ["794584175993815060", "792339963995357185"]
+        },
+        "Transporter": {
+            "Roles": ["796317339787853835"],
+            "Cooldown": 15
+        },
+        "NameChanger":{
+            "Roles": ["796317342907760664"],
+            "ForceTag": true,
+            "ForceTagFormat": "<tag> <name>"
+        }
+    },
+
+    "Invite": {
+        "Channel": "796322060527337493"
+    },
+
+    "Tag": {
+        "Symbol": "ⵢ",
+        "Role": "796318060415680512",
+        "Log": "792328298007887892"
+    },
+
+    "Roles": {
+        "Unregistered": ["796317350147129364"],
+        "BoosterRole": "700331461235966123"
+    },
+
+    "Stats": {
+        "Message":{
+            "BypassChannels": [792797454121828392],
+            "Cooldown": 1
+        },
+        "Voice": {
+            "BypassChannels": []
+        }
+    },
+
+    "Penals": {
+        "SendPrivateMessage": false,
+        "Jail": {
+            "AuthRoles": ["796324455722778637"],
+            "Role": "796317348155621376",
+            "Log": "796326083476586586",
+            "Limit": 3
+        },
+        "Mute": {
+            "AuthRoles": ["793223169405616178"],
+            "Role": "796324453545410591",
+            "Log": "796330085157699595"
+        },
+        "VoiceMute": {
+            "AuthRoles": ["793223169405616178"],
+            "Role": "796324454727811082",
+            "Log": "796330210576039946",
+            "ManualMute": true
+        },
+        "Suspect": {
+            "AuthRoles": [781580433162240011],
+            "Role": "792777174083043378",
+            "Log": "796330795677515797"
+        },
+        "Ban": {
+            "AuthRoles": ["792429840501833799"],
+            "Log": "796330643105120256",
+            "Limit": 3
+        },
+        "Warn": {
+            "AuthRoles": ["AUTH_ROLE"],
+            "Log": "796330662826868737",
+            "Role": [796331494708609044]
+        },
+        "Kick": {
+            "AuthRoles": ["792429840501833799"],
+            "Log": "796330691259924491",
+            "Limit": 3
+        }
+    },
+
+    "Market": {
+        "MaxCoinBet": 50000,
+        "DropChannel": ""
+    }
+}

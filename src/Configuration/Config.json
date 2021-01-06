@@ -1,0 +1,6 @@
+{
+    "Token": "Nzk2MzExNTU3MTkyNjc5NDU0.X_WE7Q.hf6N4Yd9fPEukRANEOYyMS8ul6I",
+    "Prefix": "v!",
+    "DatabaseUrl": "mongodb+srv://Basar1907:vEK52fYKT3fR2P1m@cluster0.8fsfo.mongodb.net/alien?retryWrites=true&w=majority",
+    "DatabaseName": "alien"
+}
